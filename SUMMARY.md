@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Developer Platform](README.md)
+* [대체자료 제작 지침 위키](README.md)

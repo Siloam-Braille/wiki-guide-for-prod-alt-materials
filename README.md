@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# Developer Platform
+# 대체자료 제작 지침 위키
 
 <button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question...</button>
 
@@ -29,7 +29,7 @@ layout:
 
 &#x20;
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4><i class="fa-leaf" style="color:$primary;">:leaf:</i></h4></td><td><strong>No code</strong></td><td>Get started with the developer platform in 5 minutes.</td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/yE16Xb3IemPxJWydtPOj/">Documentation</a></td><td><a href=".gitbook/assets/no-code.jpg">no-code.jpg</a></td></tr><tr><td><h4><i class="fa-server" style="color:$primary;">:server:</i></h4></td><td><strong>Hosted</strong></td><td>Learn more about hosting the developer platform.</td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/yE16Xb3IemPxJWydtPOj/">Documentation</a></td><td><a href=".gitbook/assets/hosted.jpg">hosted.jpg</a></td></tr><tr><td><h4><i class="fa-terminal" style="color:$primary;">:terminal:</i></h4></td><td><strong>API reference</strong></td><td>Browse, test, and implement APIs.</td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/M9ty6FYa3j98VSBHF9LN/">API Reference</a></td><td><a href=".gitbook/assets/api-reference.jpg">api-reference.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4><i class="fa-headphones" style="color:$primary;">:headphones:</i></h4></td><td><strong>DAISY자료</strong></td><td>2023 데이지자료 제작지침 (국립장애인도서관)</td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/yE16Xb3IemPxJWydtPOj/">Documentation</a></td><td><a href=".gitbook/assets/no-code.jpg">no-code.jpg</a></td></tr><tr><td><h4><i class="fa-braille" style="color:$primary;">:braille:</i></h4></td><td><strong>점자도서</strong></td><td>2025 점자 도서 제작 지침 (국립장애인도서관)</td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/yE16Xb3IemPxJWydtPOj/">Documentation</a></td><td><a href=".gitbook/assets/hosted.jpg">hosted.jpg</a></td></tr><tr><td><h4><i class="fa-book-open-lines" style="color:$primary;">:book-open-lines:</i></h4></td><td><strong>점자교과서</strong></td><td>2025 시각장애학생용 점자교과서 및 교수학습자료 제작 지침 (국립특수교육원)</td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/M9ty6FYa3j98VSBHF9LN/">API Reference</a></td><td><a href=".gitbook/assets/api-reference.jpg">api-reference.jpg</a></td></tr></tbody></table>
 
 &#x20;
 
