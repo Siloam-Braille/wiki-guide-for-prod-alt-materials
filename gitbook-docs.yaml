@@ -1,0 +1,229 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Siloam Docs
+  structure:
+    - type: section
+      key: section-1
+      title: Siloam Docs
+      path: siloam-docs
+      default: true
+      children:
+        - type: space
+          key: space-1
+          title: Landing Page
+          path: landing-page
+          default: true
+          content:
+            directory: ./siloam-docs/landing-page
+            language: ko
+    - type: section-group
+      key: section-group-5
+      title: 종합
+      icon: star
+      draft: true
+      children:
+        - type: section
+          key: section-14
+          title: 유형별 제작 방법
+          path: undefined-2
+          icon: symbols
+          children:
+            - type: space
+              key: space-14
+              title: 유형별 제작 방법
+              path: undefined
+              default: true
+              draft: true
+              content:
+                directory: ./undefined-2/undefined
+    - type: section-group
+      key: section-group-4
+      title: 점자 도서 제작 지침
+      icon: braille
+      draft: true
+      children:
+        - type: section
+          key: section-12
+          title: 점자 도서 제작 지침
+          path: braille-book-guide
+          icon: book-open
+          children:
+            - type: space
+              key: space-12
+              title: 점자 도서 제작 지침
+              path: undefined
+              default: true
+              draft: true
+              content:
+                directory: ./braille-book-guide/undefined
+        - type: section
+          key: section-13
+          title: 시각장애학생용 점자교과서 및 교수학습 자료 제작 지침
+          path: undefined-1
+          icon: school
+          children:
+            - type: space
+              key: space-13
+              title: 시각장애학생용 점자교과서 및 교수학습 자료 제작 지침
+              path: undefined
+              default: true
+              draft: true
+              content:
+                directory: ./undefined-1/undefined
+    - type: section-group
+      key: section-group-2
+      title: 점자 규정
+      icon: braille
+      children:
+        - type: section-group
+          key: section-group-3
+          title: 한국 점자 규정
+          icon: k
+          draft: true
+          children:
+            - type: section
+              key: section-6
+              title: 한국 점자 표기의 기본 원칙
+              path: braille-rule-korean-principle
+              icon: square-1
+              children:
+                - type: space
+                  key: space-6
+                  title: 한국 점자 표기의 기본 원칙
+                  path: landing-page
+                  default: true
+                  draft: true
+                  content:
+                    directory: ./braille-rule-korean-principle/landing-page
+            - type: section
+              key: section-3
+              title: 한글 점자
+              path: braille-rule-korean-korean
+              icon: k
+              children:
+                - type: space
+                  key: space-3
+                  title: 한글 점자
+                  path: untitled
+                  default: true
+                  draft: true
+                  content:
+                    directory: ./braille-rule-korean-korean/untitled
+            - type: section
+              key: section-4
+              title: 수학 점자
+              path: braille-rule-korean-math
+              icon: function
+              children:
+                - type: space
+                  key: space-4
+                  title: 수학 점자
+                  path: untitled
+                  default: true
+                  draft: true
+                  content:
+                    directory: ./braille-rule-korean-math/untitled
+            - type: section
+              key: section-5
+              title: 과학 점자
+              path: braille-rule-korean-science
+              icon: flask
+              children:
+                - type: space
+                  key: space-5
+                  title: 과학 점자
+                  path: untitled
+                  default: true
+                  draft: true
+                  content:
+                    directory: ./braille-rule-korean-science/untitled
+            - type: section
+              key: section-9
+              title: 한국 음악 점자
+              path: braille-rule-korean-music-1
+              icon: music-note
+              children:
+                - type: space
+                  key: space-9
+                  title: 한국 음악 점자
+                  path: untitled
+                  default: true
+                  draft: true
+                  content:
+                    directory: ./braille-rule-korean-music-1/untitled
+            - type: section
+              key: section-8
+              title: 서양 음악 점자
+              path: braille-rule-korean-music-2
+              icon: music
+              children:
+                - type: space
+                  key: space-8
+                  title: 서양 음악 점자
+                  path: untitled
+                  default: true
+                  draft: true
+                  content:
+                    directory: ./braille-rule-korean-music-2/untitled
+        - type: section
+          key: section-7
+          title: 통일영어점자규정
+          path: braille-rule-english
+          description: 통일 영어 점자 규정 (국립국어원 역, International Council on English Braille)
+          icon: e
+          children:
+            - type: space
+              key: space-7
+              title: 통일영어점자규정
+              path: untitled
+              default: true
+              draft: true
+              content:
+                directory: ./braille-rule-english/untitled
+    - type: section-group
+      key: section-group-1
+      title: 데이지
+      icon: headphones
+      children:
+        - type: section
+          key: section-11
+          title: 데이지 제작 매뉴얼
+          path: daisy-manual
+          icon: envira
+          children:
+            - type: space
+              key: space-11
+              title: 데이지 제작 매뉴얼
+              path: undefined
+              default: true
+              draft: true
+              content:
+                directory: ./daisy-manual/undefined
+        - type: section
+          key: section-2
+          title: 데이지 검사
+          path: undefined
+          icon: magnifying-glass
+          children:
+            - type: space
+              key: space-2
+              title: 데이지 검사
+              path: product-docs
+              default: true
+              draft: true
+              content:
+                directory: ./undefined/product-docs
+                language: ko
+        - type: section
+          key: section-10
+          title: 데이지 자료 제작 지침
+          path: daisy-guide
+          icon: headphones
+          children:
+            - type: space
+              key: space-10
+              title: 데이지 자료 제작 지침
+              path: untitled
+              default: true
+              content:
+                directory: ./daisy-guide/untitled
