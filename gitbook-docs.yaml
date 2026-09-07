@@ -5,7 +5,8 @@ site:
     - type: section
       key: section-1
       title: Siloam Docs
-      path: siloam-docs
+      path: index
+      description: ""
       default: true
       children:
         - type: space
