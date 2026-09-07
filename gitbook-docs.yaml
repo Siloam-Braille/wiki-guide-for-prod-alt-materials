@@ -197,7 +197,7 @@ site:
         - type: section
           key: section-11
           title: 데이지 제작 매뉴얼
-          path: daisy-manual
+          path: daisy-edit-manual
           description: ""
           icon: envira
           children:
@@ -212,7 +212,8 @@ site:
         - type: section
           key: section-2
           title: 데이지 검사
-          path: undefined
+          path: daisy-review-manual
+          description: ""
           icon: magnifying-glass
           children:
             - type: space
