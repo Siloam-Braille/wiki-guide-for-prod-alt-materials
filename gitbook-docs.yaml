@@ -61,7 +61,8 @@ site:
         - type: section
           key: section-13
           title: 시각장애학생용 점자교과서 및 교수학습 자료 제작 지침
-          path: undefined-1
+          path: braille-study-guide
+          description: ""
           icon: school
           children:
             - type: space
