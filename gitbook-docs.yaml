@@ -39,6 +39,7 @@ site:
               draft: true
               content:
                 directory: ./undefined-2/undefined
+                language: ko
     - type: section-group
       key: section-group-4
       title: 점자 도서 제작 지침
