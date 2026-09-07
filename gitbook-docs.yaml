@@ -25,7 +25,8 @@ site:
         - type: section
           key: section-14
           title: 유형별 제작 방법
-          path: undefined-2
+          path: howto-by-type
+          description: ""
           icon: symbols
           children:
             - type: space
@@ -46,6 +47,7 @@ site:
           key: section-12
           title: 점자 도서 제작 지침
           path: braille-book-guide
+          description: ""
           icon: book-open
           children:
             - type: space
@@ -85,6 +87,7 @@ site:
               key: section-6
               title: 한국 점자 표기의 기본 원칙
               path: braille-rule-korean-principle
+              description: ""
               icon: square-1
               children:
                 - type: space
@@ -99,6 +102,7 @@ site:
               key: section-3
               title: 한글 점자
               path: braille-rule-korean-korean
+              description: ""
               icon: k
               children:
                 - type: space
@@ -113,6 +117,7 @@ site:
               key: section-4
               title: 수학 점자
               path: braille-rule-korean-math
+              description: ""
               icon: function
               children:
                 - type: space
@@ -127,6 +132,7 @@ site:
               key: section-5
               title: 과학 점자
               path: braille-rule-korean-science
+              description: ""
               icon: flask
               children:
                 - type: space
@@ -141,6 +147,7 @@ site:
               key: section-9
               title: 한국 음악 점자
               path: braille-rule-korean-music-1
+              description: ""
               icon: music-note
               children:
                 - type: space
@@ -155,6 +162,7 @@ site:
               key: section-8
               title: 서양 음악 점자
               path: braille-rule-korean-music-2
+              description: ""
               icon: music
               children:
                 - type: space
@@ -189,6 +197,7 @@ site:
           key: section-11
           title: 데이지 제작 매뉴얼
           path: daisy-manual
+          description: ""
           icon: envira
           children:
             - type: space
@@ -218,6 +227,7 @@ site:
           key: section-10
           title: 데이지 자료 제작 지침
           path: daisy-guide
+          description: ""
           icon: headphones
           children:
             - type: space
