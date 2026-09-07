@@ -213,7 +213,7 @@ site:
                 directory: ./daisy-manual/undefined
         - type: section
           key: section-2
-          title: 데이지 검사
+          title: 데이지 검사 매뉴얼
           path: daisy-review-manual
           description: ""
           icon: magnifying-glass
