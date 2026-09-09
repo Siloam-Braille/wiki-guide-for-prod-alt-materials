@@ -78,6 +78,25 @@ site:
                 directory: ./undefined/product-docs
                 language: ko
     - type: section-group
+      key: section-group-1
+      title: 데이지
+      icon: headphones
+      children:
+        - type: section
+          key: section-10
+          title: 데이지 자료 제작 지침
+          path: daisy-guide
+          description: ""
+          icon: headphones
+          children:
+            - type: space
+              key: space-10
+              title: 데이지 자료 제작 지침
+              path: untitled
+              default: true
+              content:
+                directory: ./daisy-guide/untitled
+    - type: section-group
       key: section-group-4
       title: 점자 도서 제작 지침
       icon: braille
@@ -229,22 +248,3 @@ site:
               draft: true
               content:
                 directory: ./braille-rule-english/untitled
-    - type: section-group
-      key: section-group-1
-      title: 데이지
-      icon: headphones
-      children:
-        - type: section
-          key: section-10
-          title: 데이지 자료 제작 지침
-          path: daisy-guide
-          description: ""
-          icon: headphones
-          children:
-            - type: space
-              key: space-10
-              title: 데이지 자료 제작 지침
-              path: untitled
-              default: true
-              content:
-                directory: ./daisy-guide/untitled
