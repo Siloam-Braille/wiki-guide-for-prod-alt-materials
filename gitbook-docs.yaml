@@ -242,3 +242,9 @@ site:
               default: true
               content:
                 directory: ./daisy-guide/untitled
+    - type: section-group
+      key: section-group-6
+      title: 매뉴얼
+      icon: traffic-light-go
+      draft: true
+      children: []
