@@ -27,7 +27,7 @@ site:
         - type: section
           key: section-14
           title: 유형별 제작 방법
-          path: howto-by-type
+          path: manual-by-pattern
           description: ""
           icon: symbols
           children:
