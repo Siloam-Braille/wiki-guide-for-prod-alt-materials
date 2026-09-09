@@ -96,6 +96,11 @@ site:
               default: true
               content:
                 directory: ./daisy-guide/untitled
+        - type: section-group
+          key: section-group-7
+          title: dddd
+          draft: true
+          children: []
     - type: section-group
       key: section-group-4
       title: 점자 도서 제작 지침
