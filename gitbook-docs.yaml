@@ -41,6 +41,43 @@ site:
                 directory: ./undefined-2/undefined
                 language: ko
     - type: section-group
+      key: section-group-6
+      title: 매뉴얼
+      icon: traffic-light-go
+      draft: true
+      children:
+        - type: section
+          key: section-11
+          title: 데이지 제작 매뉴얼
+          path: daisy-edit-manual
+          description: ""
+          icon: envira
+          children:
+            - type: space
+              key: space-11
+              title: 데이지 제작 매뉴얼
+              path: undefined
+              default: true
+              draft: true
+              content:
+                directory: ./daisy-manual/undefined
+        - type: section
+          key: section-2
+          title: 데이지 검사 매뉴얼
+          path: daisy-review-manual
+          description: ""
+          icon: magnifying-glass
+          children:
+            - type: space
+              key: space-2
+              title: 데이지 검사
+              path: product-docs
+              default: true
+              draft: true
+              content:
+                directory: ./undefined/product-docs
+                language: ko
+    - type: section-group
       key: section-group-4
       title: 점자 도서 제작 지침
       icon: braille
@@ -198,37 +235,6 @@ site:
       icon: headphones
       children:
         - type: section
-          key: section-11
-          title: 데이지 제작 매뉴얼
-          path: daisy-edit-manual
-          description: ""
-          icon: envira
-          children:
-            - type: space
-              key: space-11
-              title: 데이지 제작 매뉴얼
-              path: undefined
-              default: true
-              draft: true
-              content:
-                directory: ./daisy-manual/undefined
-        - type: section
-          key: section-2
-          title: 데이지 검사 매뉴얼
-          path: daisy-review-manual
-          description: ""
-          icon: magnifying-glass
-          children:
-            - type: space
-              key: space-2
-              title: 데이지 검사
-              path: product-docs
-              default: true
-              draft: true
-              content:
-                directory: ./undefined/product-docs
-                language: ko
-        - type: section
           key: section-10
           title: 데이지 자료 제작 지침
           path: daisy-guide
@@ -242,9 +248,3 @@ site:
               default: true
               content:
                 directory: ./daisy-guide/untitled
-    - type: section-group
-      key: section-group-6
-      title: 매뉴얼
-      icon: traffic-light-go
-      draft: true
-      children: []
